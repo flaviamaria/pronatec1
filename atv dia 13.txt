@@ -1,0 +1,37 @@
+1. Quais as principais atividades realizadas por um desenvolvedor web?
+Um desenvolvedor web é responsável por criar páginas para a web, escrever códigos para o funcionamento de sites, realizar manutenção e garantir que todas as interações (botões, links, imagens) funcionem corretamente.
+
+2. O que é um desenvolvedor web front-end?
+O desenvolvedor front-end é o profissional que dá vida à interface de um site, lidando com elementos que os visitantes interagem, como design, conteúdo e navegação, para proporcionar uma boa experiência ao usuário em diversos dispositivos.
+
+3. O que é um desenvolvedor web back-end?
+O desenvolvedor back-end é responsável pela estrutura que fica por trás da aplicação, garantindo que o sistema responda corretamente às ações dos usuários, através da comunicação com o banco de dados e das regras definidas no código.
+
+4. O que é um desenvolvedor web full-stack?
+Um desenvolvedor full-stack é aquele que domina tanto o front-end quanto o back-end, sendo capaz de desenvolver um projeto completo, abrangendo todas as camadas de desenvolvimento.
+
+5. Quais as ferramentas o desenvolvedor web precisa dominar?
+Um desenvolvedor web deve dominar linguagens como HTML, CSS, JavaScript, além de frameworks de front-end (React, Angular) e back-end (Node.js, Django). Também é importante ter conhecimento em bancos de dados e ferramentas de controle de versão como Git.
+
+6. Quais as diferenças entre os cargos de desenvolvedores: júnior, pleno e sênior?
+Júnior: Menos de 2 anos de experiência, realiza tarefas simples sob supervisão.
+Pleno: Entre 2 a 5 anos de experiência, trabalha de forma mais autônoma e participa ativamente de projetos.
+Sênior: Mais de 5 anos de experiência, lidera projetos, toma decisões críticas e orienta outros desenvolvedores.
+
+7. Quais as principais atividades realizadas por um desenvolvedor mobile?
+Um desenvolvedor mobile é responsável por criar aplicativos para dispositivos móveis, garantir a viabilidade técnica, seguir as diretrizes das app stores, e colaborar com designers e outros programadores.
+
+8. Quais as ferramentas o programador mobile precisa dominar?
+Um programador mobile deve dominar plataformas como iOS (Objective-C, Swift) e Android (Java, Kotlin), além de entender sobre integração com APIs e ferramentas de desenvolvimento como Android Studio e Xcode.
+
+9. Como atua um analista de sistemas?
+O analista de sistemas propõe soluções tecnológicas para as necessidades da empresa, levantando requisitos, planejando, executando e testando sistemas, além de administrar bancos de dados.
+
+10. Qual o perfil desejado de um analista de sistemas?
+Um analista de sistemas deve ter habilidades de comunicação, capacidade de entender necessidades de negócio e conhecimento técnico para desenvolver soluções eficazes.
+
+11. O que faz um cientista de dados?
+Um cientista de dados descobre soluções e resolve problemas de negócios utilizando dados, criando hipóteses, validando informações e gerando impactos reais para a empresa.
+
+12. Quais os conhecimentos requisitados para ser um cientista de dados?
+Um cientista de dados precisa ter conhecimentos em programação (Python, R), estatística, manipulação de dados, além de habilidades em comunicação e uma boa compreensão do setor em que atua.
